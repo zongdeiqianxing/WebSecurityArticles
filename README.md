@@ -3,7 +3,8 @@
 #### 运行项目需要scrapy环境
 推荐使用anacondad安装环境
 
-安装环境后进入项目使用命令来运行爬虫
-```scrapy crawl anquanke_spider
+安装scrapy环境后进入项目使用命令运行爬虫
+```
+scrapy crawl anquanke_spider
 
 ```
