@@ -9,8 +9,8 @@ import time
 
 class AnquankePipeline(object):
     def __init__(self):
-        date = time.strftime("%Y%m%d-%H%M%S", time.localtime())
-        self.filename='Article'+date+'.md'
+        date = time.strftime("%Y%m%d", time.localtime())
+        self.filename='AnQuanKeArticles'+date+'.md'
         # with open(self.filename,'w+') as f:
         #     f.write("#### 安全客高阅读(大于50w)资料")
         #     f.write('\n')

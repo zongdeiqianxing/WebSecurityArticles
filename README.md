@@ -1,10 +1,1 @@
-此项目为scrapy爬虫爬取安全客站点部分tag下的阅读数大于20w的优质文章、写入md文件中。  
-
-#### 运行项目需要scrapy环境
-推荐使用anacondad安装环境
-
-安装scrapy环境后进入项目使用命令运行爬虫
-```
-scrapy crawl anquanke_spider
-
-```
+#### 项目为爬取安全客、Freebuf Web安全模块且阅读量大于20w的文章；按阅读量分20w+、50w+、70w+d三档分别以markdown的链接形式写入md文件中，方便阅读；
