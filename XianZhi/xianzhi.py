@@ -49,4 +49,3 @@ def main():
 		raise e 
 
 main()
-write_md()
