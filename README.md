@@ -2,5 +2,4 @@
 后续可能添加些其他站点的高质量高阅读文章，欢迎点赞xixi
 
 配合有道云笔记使用：
-![image](FreeBuf/1.png)
-![image](FreeBuf/2.png)
+![image](FreeBuf/1111.png)
