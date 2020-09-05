@@ -1,3 +1,4 @@
+#d此脚本不是爬虫，需要下载https://github.com/vulhub/vulhub到w本地，在本地文件夹下使用脚本
 import os
 
 base_dir= 'vulhub'
@@ -31,7 +32,7 @@ for root, dirs, files in os.walk(base_dir,topdown=False):
 				files_README.append(os.path.join(root, name))
 
 
-with open('vulhub_README.md','w+') as f:
+with open('vulhubTitle.md','w+') as f:
 	for file in files_README:
 		Title = getTitle(file)
 		if file.split('/',1)[0] == 'vulhub':

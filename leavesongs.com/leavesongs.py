@@ -10,7 +10,7 @@ headers = {
 
 def write_md():
 	date = time.strftime("%Y%m%d", time.localtime())
-	filename="p神Articles-" + date + '.md'
+	filename="leavesongs-all-" + date + '.md'
 	with open(filename,'w+') as f:
 		for line in list:
 			f.write(line)
