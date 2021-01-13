@@ -1,4 +1,6 @@
-#### 整理一些网站的高阅读量优质文章，主要是web安全方面；为了方便阅读整理格式如下：
+#### 整理一些网站的高阅读量优质文章，主要是web安全方面；为了方便阅读及查阅，整理成markdown形式保存在本地笔记本中；
+#### 不知道其他笔记是否支持markdown，个人使用的有道云笔记，效果非常好整理格式如下：  
+
 [【81w】  /CSRF攻击防御原理](https://www.freebuf.com/articles/web/224446.html)  
 [【79w】  /流量加密又怎样？ 多种姿势检测“冰蝎”](https://www.freebuf.com/articles/web/216133.html)  
 [【127w】  /泛微OA E-cology远程代码执行漏洞原理分析](https://www.freebuf.com/vuls/215218.html)  
@@ -9,4 +11,4 @@
 [【80w】  /Web渗透实验：基于Weblogic的一系列漏洞](https://www.freebuf.com/vuls/194811.html)  
 [【130w】  /前端安全系列（一）：如何防止XSS攻击？](https://www.freebuf.com/articles/web/185654.html) 
 
-不知道其他笔记是否支持markdown，个人使用的有道云笔记，效果非常好
+
